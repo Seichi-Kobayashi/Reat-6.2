@@ -12,7 +12,7 @@ const user = {
   email: "12345@example.com",
   phone: "090-1111-2222",
   company: {
-    name: "テスト会社2",
+    name: "テスト会社23",
   },
   website: "https://google.com",
 };
